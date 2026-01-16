@@ -82,6 +82,8 @@ Password: 1234
 
 These credentials demonstrate successful credential harvesting during the simulation.
 
+---
+
 ### Exit SEToolkit
 
 99
