@@ -74,11 +74,11 @@ The DVWA website is cloned to appear identical to the legitimate site.
 </head>
 </html>
 
+---
+
 ### Captured Credentials
-
-Email: cyber@gmail.com
-
-Password: 1234
+Email address- cyber@gmail.com
+Password- 1234
 
 These credentials demonstrate successful credential harvesting during the simulation.
 
